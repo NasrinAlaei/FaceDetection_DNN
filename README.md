@@ -1,6 +1,3 @@
-
-Here's an English version of the README, along with additional details on the SSD (Single Shot Multibox Detector) model architecture:
-
 # Real-Time Face Detection using DNN Model
 This project demonstrates a simple real-time face detection program using a Deep Neural Network (DNN) model with OpenCV. The program utilizes the camera to detect faces in a video stream and draws a rectangle around them.
 
